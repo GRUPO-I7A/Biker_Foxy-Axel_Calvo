@@ -372,7 +372,7 @@ a:focus {
 }
 
 .carousel .carousel-text h3 {
-    color: #E81C2E;
+    color: #e6b632;
     font-size: 20px;
     font-weight: 700;
     letter-spacing: 4px;
@@ -401,7 +401,7 @@ a:focus {
 }
 
 .carousel .btn.btn-custom:hover {
-    color: #E81C2E;
+    color: #e6b632;
 }
 
 .carousel .owl-nav {
