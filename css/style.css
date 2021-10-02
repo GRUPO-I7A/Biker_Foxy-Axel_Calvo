@@ -14,18 +14,18 @@ h3,
 h4,
 h5, 
 h6 {
-    color: #202C45;
+    color: #453b20;
 }
 
 a {
-    color: #202C45;
+    color: #453b20;
     transition: .3s;
 }
 
 a:hover,
 a:active,
 a:focus {
-    color: #E81C2E;
+    color: #ddaf16;
     outline: none;
     text-decoration: none;
 }
@@ -36,19 +36,19 @@ a:focus {
     font-size: 16px;
     font-weight: 500;
     color: #ffffff;
-    background: #E81C2E;
+    background: #ddaf16;
     border: none;
     border-radius: 60px;
-    box-shadow: inset 0 0 0 0 #202C45;
+    box-shadow: inset 0 0 0 0 #453b20;
     transition: ease-out 0.5s;
     -webkit-transition: ease-out 0.5s;
     -moz-transition: ease-out 0.5s;
 }
 
 .btn.btn-custom:hover {
-    color: #E81C2E;
-    background: #202C45;
-    box-shadow: inset 200px 0 0 0 #202C45;
+    color: #ddaf16;
+    background: #473c1e;
+    box-shadow: inset 200px 0 0 0 #473c1e;
 }
 
 .btn:focus,
@@ -699,7 +699,7 @@ a:focus {
 
 .about .about-content ul li i {
     margin-right: 8px;
-    color: #E81C2E;
+    color: #ddaf16;
 }
 
 
@@ -731,7 +731,7 @@ a:focus {
     margin: 0;
     font-size: 60px;
     line-height: 60px;
-    background-image: linear-gradient(#E81C2E, #202C45);
+    background-image: linear-gradient(#ddaf16, #202C45);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     transition: .5s;
@@ -896,15 +896,15 @@ a:focus {
 }
 
 .price .price-item .price-footer .btn.btn-custom {
-    color: #E81C2E;
-    background: #202C45;
-    box-shadow: inset 0 0 0 0 #E81C2E;
+    color: #a78e03;
+    background: #3d2e1b;
+    box-shadow: inset 0 0 0 0 #a78e03;
 }
 
 .price .price-item .price-footer .btn.btn-custom:hover {
     color: #ffffff;
-    background: #E81C2E;
-    box-shadow: inset 200px 0 0 0 #E81C2E;
+    background: #a78e03;
+    box-shadow: inset 200px 0 0 0 #a78e03;
 }
 
 .price .price-item.featured-item .price-footer .btn.btn-custom {
