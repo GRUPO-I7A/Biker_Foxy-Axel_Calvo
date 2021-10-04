@@ -8,6 +8,12 @@ body {
     font-family: 'Barlow', sans-serif;
 }
 
+.icono-tamano{
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+}
+
 h1,
 h2, 
 h3, 
