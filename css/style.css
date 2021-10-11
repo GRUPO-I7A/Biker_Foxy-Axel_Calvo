@@ -520,10 +520,23 @@ a:focus {
 /*******************************/
 /******* Page Header CSS *******/
 /*******************************/
+
+
+#bannerimage {
+  width: 100%;
+  background-image: url("/img/banner1.png");
+  height: 400px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: purple;
+  background-position: center;
+}
+
 .page-header {
     position: relative;
     margin-bottom: 45px;
     padding: 90px 0;
+    height: 100px;
     text-align: center;
     background: #3d2e1b;
     border-top: 1px dotted #ffffff;
