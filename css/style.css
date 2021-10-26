@@ -1945,10 +1945,13 @@ a:focus {
 /********* Footer CSS **********/
 /*******************************/
 .footer {
+    
     position: relative;
     margin-top: 45px;
-    padding-top: 90px;
+    padding-top: 80px;
+    margin-bottom: 0%;
     background: #473c1e;
+
 }
 
 .footer .footer-contact,
@@ -1997,6 +2000,11 @@ a:focus {
     position: relative;
     margin-top: 20px;
     display: flex;
+}
+
+.logo-biker{
+    width: 500px;
+    height: auto;
 }
 
 .footer .footer-social a {
